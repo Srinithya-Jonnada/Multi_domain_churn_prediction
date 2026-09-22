@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-This project focuses on predicting customer churn in the telecommunications industry using machine learning techniques. Customer churn refers to customers discontinuing a company's services.
+This Project focuses on predicting customer churn in the telecommunications industry using machine learning techniques. Customer churn refers to customers discontinuing a company's services.
 
 By analyzing customer demographics, service subscriptions, tenure, contract information, and billing details, the project identifies customers who are likely to leave the company.
 
